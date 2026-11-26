@@ -16,7 +16,7 @@ This project presents an HR Analytics Dashboard built in **Microsoft Power BI** 
 ## Dashboard Preview
 Add your dashboard screenshots to a folder named `screenshots` in this project and update the image paths below.
 
-![HR Analytics Dashboard](screenshots/hr-analytics-dashboard.png)
+![HR Analytics Dashboard](image.png)
 
 ## Key Features
 - Interactive dashboard visuals.
