@@ -10,8 +10,8 @@ This project presents an HR Analytics Dashboard built in **Microsoft Power BI** 
 
 ## Tools & Technologies
 - Microsoft Power BI
-- Power Query (data preparation, where applicable)
-- DAX (basic measures and calculations)
+- Power Query
+- DAX 
 
 ## Dashboard Preview
 Add your dashboard screenshots to a folder named `screenshots` in this project and update the image paths below.
