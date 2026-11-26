@@ -16,14 +16,14 @@ This project presents an HR Analytics Dashboard built in **Microsoft Power BI** 
 ## Dashboard Preview
 Add your dashboard screenshots to a folder named `screenshots` in this project and update the image paths below.
 
-![HR Analytics Dashboard](image.png)
+![HR Analytics Dashboard](Image.png)
 
 ## Key Features
 - Interactive dashboard visuals.
 - HR data summaries and breakdowns.
 - Filters/slicers for exploring the available data.
 
-> Note: Update this section with the exact KPIs, charts, and filters included in your final dashboard. Do not list a feature unless it is present in your report.
+
 
 ## Repository Structure
 ```text
@@ -43,6 +43,3 @@ HR_Analytics_Dashboard/
 - Practised creating an interactive report in Power BI.
 - Gained experience presenting HR-related data visually.
 - Practised basic DAX and report design.
-
-## Disclaimer
-This is a portfolio/practice project created for learning and demonstration purposes. It is not an official report for any employer.
