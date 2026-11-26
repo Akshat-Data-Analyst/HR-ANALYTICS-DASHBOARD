@@ -28,10 +28,9 @@ Add your dashboard screenshots to a folder named `screenshots` in this project a
 ## Repository Structure
 ```text
 HR_Analytics_Dashboard/
-├── README.md
-├── screenshots/
-│   └── hr-analytics-dashboard.png
-└── HR_Analytics_Dashboard.pbix
+├── HR_Analytics_Dashboard.pbix
+├──  Image.png
+└── README.md
 ```
 
 ## How to View the Project
